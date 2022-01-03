@@ -1,0 +1,20 @@
+name: aiai2022-rl
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pip
+  - tensorflow=2.6
+  - tensorflow-probability
+  - scipy
+  - matplotlib
+  - scikit-image
+  - scikit-learn-intelex
+  - pandas
+  - jupyterlab
+  - numpy
+  - pyglet
+  - gym[all]
+  - box2d-py
+  - gym[Box_2D]
