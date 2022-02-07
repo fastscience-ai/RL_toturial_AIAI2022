@@ -18,3 +18,4 @@ dependencies:
   - gym[all]
   - box2d-py
   - gym[Box_2D]
+  - stable-baselines3
