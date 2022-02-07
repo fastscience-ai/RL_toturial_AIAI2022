@@ -8,5 +8,5 @@ Then download proper installer for your OS  <br />
 ## When we deactivate conda environments <br />
 `conda deactivate`
 ## Install Stabile baselines <br />
-[Link_to_stable_baselines](https://stable-baselines.readthedocs.io/en/master/guide/install.html)
+[Link_to_stable_baselines](https://stable-baselines.readthedocs.io/en/master/guide/install.html) <br />
 `pip install stable-baselines`
