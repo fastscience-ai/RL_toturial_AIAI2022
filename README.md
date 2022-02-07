@@ -7,3 +7,6 @@ Then download proper installer for your OS  <br />
 `source activate aiai2022-rl` <br />
 ## When we deactivate conda environments <br />
 `conda deactivate`
+## Install Stabile baselines <br />
+[Link_to_stable_baselines](https://stable-baselines.readthedocs.io/en/master/guide/install.html)
+`pip install stable-baselines`
