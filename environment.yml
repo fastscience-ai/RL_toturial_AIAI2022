@@ -18,6 +18,7 @@ dependencies:
   - gym[all]
   - box2d-py
   - gym[Box_2D]
+  - gym[accept-rom-license]
   - stable-baselines3
   - ffmpeg
   - xvfbwrapper
